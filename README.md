@@ -1,5 +1,5 @@
 # Simple Clock
-This is a simple clock made using Tkinter and strftime in 20 lines of code!
+Here is a simple clock made using Tkinter and strftime in 20 lines of code!
 
 The DS-Digital font can be downloaded from here: 
 
